@@ -12,7 +12,7 @@ const Home = () => {
     <>
       <div className="home">
         <main>
-          <h1>Creativity Zone!!</h1>
+          <h1>Disha Nijhawan!!</h1>
           <p>
             This is my home page and first page I made. Here, you can find my
             paintings!
